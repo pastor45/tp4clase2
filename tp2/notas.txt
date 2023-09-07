@@ -2,3 +2,7 @@ Nombre: Pablo Marcelo
 Apellido: Salamendi
 Materia: Matematica
 Calificación: 6
+Nombre: Jorgito
+Apellido: Alsina
+Materia: Lengua
+Calificación: 8
